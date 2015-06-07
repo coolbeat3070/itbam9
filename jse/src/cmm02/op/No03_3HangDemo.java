@@ -7,6 +7,6 @@ public class No03_3HangDemo {
 		int result = 0;
 		boolean boo = true;
 		result = boo ? left : right;
-		System.out.println("ÂüÀÌ³Ä °ÅÁşÀÌ³Ä 1 ÀÌ¸é Âü, 0 ÀÌ¸é °ÅÁş : " + result);
+		System.out.println("ï¿½ï¿½ï¿½Ì³ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì³ï¿½ 1 ï¿½Ì¸ï¿½ ï¿½ï¿½, 0 ï¿½Ì¸ï¿½ ï¿½ï¿½ï¿½ï¿½ : " + result);
 	}
 }

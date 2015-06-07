@@ -7,14 +7,14 @@ public class No01_DanHangDemo2 {
 		int j = 0;
 		
 		j = i++;
-		System.out.println("i ÀÇ °ª : " + i);
-		System.out.println("j = i++ ÀÇ °ª : "+j);
+		System.out.println("i ï¿½ï¿½ ï¿½ï¿½ : " + i);
+		System.out.println("j = i++ ï¿½ï¿½ ï¿½ï¿½ : "+j);
 		
 		int x = 5;
 		int y = 0;
 		y = ++x;
-		System.out.println("x ÀÇ °ª : " + x);
-		System.out.println("y = ++x ÀÇ °ª : " + y);
+		System.out.println("x ï¿½ï¿½ ï¿½ï¿½ : " + x);
+		System.out.println("y = ++x ï¿½ï¿½ ï¿½ï¿½ : " + y);
 		
 		
 	}

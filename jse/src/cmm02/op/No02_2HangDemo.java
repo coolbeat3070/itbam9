@@ -11,10 +11,10 @@ public class No02_2HangDemo {
 		mok = x / y;
 		nmg = x % y;
 		
-		System.out.println("x + y ÀÇ °á°ú°ª : " + add);
-		System.out.println("x - y ÀÇ °á°ú°ª : " + sub);
-		System.out.println("x * y ÀÇ °á°ú°ª : " + gob);
-		System.out.println("x / y ÀÇ °á°ú°ª : " + mok);
-		System.out.println("x % y ÀÇ °á°ú°ª : " + nmg);
+		System.out.println("x + y ï¿½ï¿½ ï¿½ï¿½ï¿½ : " + add);
+		System.out.println("x - y ï¿½ï¿½ ï¿½ï¿½ï¿½ : " + sub);
+		System.out.println("x * y ï¿½ï¿½ ï¿½ï¿½ï¿½ : " + gob);
+		System.out.println("x / y ï¿½ï¿½ ï¿½ï¿½ï¿½ : " + mok);
+		System.out.println("x % y ï¿½ï¿½ ï¿½ï¿½ï¿½ : " + nmg);
 	}
 }

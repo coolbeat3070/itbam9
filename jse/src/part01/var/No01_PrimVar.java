@@ -1,4 +1,4 @@
-package cmm01.var;
+package part01.var;
 
 class No01_PrimVar{
 	public static void main(String[] args) {

@@ -3,19 +3,19 @@ package cmm02.op;
 public class No01_DanHangDemo {
 	
 	 public static void main(String[] args) {
-//			int  i;   º¯¼öÀÇ ¼±¾ð
-				 //	i = 5;   ÃÊ±âÈ­, ÇÒ´ç
+//			int  i;   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+				 //	i = 5;   ï¿½Ê±ï¿½È­, ï¿½Ò´ï¿½
 				 int i = 5;
 				 i = i + 1;
-				System.out.println("i = i + 5 ÀÇ °ª : " + i);
+				System.out.println("i = i + 5 ï¿½ï¿½ ï¿½ï¿½ : " + i);
 				
 				int j = 5;
 				j++;
-				System.out.println("j++ ÀÇ °ª : " + j);
+				System.out.println("j++ ï¿½ï¿½ ï¿½ï¿½ : " + j);
 				
 				int k = 5;
 				++k;
-				System.out.println("++k ÀÇ °ª : " + k);
+				System.out.println("++k ï¿½ï¿½ ï¿½ï¿½ : " + k);
 	}
 	 
 }

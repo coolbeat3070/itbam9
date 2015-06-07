@@ -5,10 +5,10 @@ public class No05_ConditionDemo {
 		int val01 = 1;
 		int val02 = 2;
 		if((val01==1)&&(val02==2)){
-			System.out.println("val01 ÀÇ °ªÀº 1ÀÌ°í, val02 ÀÇ °ªÀº 2ÀÌ´Ù.");
+			System.out.println("val01 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 1ï¿½Ì°ï¿½, val02 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 2ï¿½Ì´ï¿½.");
 		}
 		if((val01==1)||(val02==1)){
-			System.out.println("valo1 ÀÌ 1 ÀÌ°Å³ª, val02 °¡ 1ÀÌ´Ù.");
+			System.out.println("valo1 ï¿½ï¿½ 1 ï¿½Ì°Å³ï¿½, val02 ï¿½ï¿½ 1ï¿½Ì´ï¿½.");
 		}
 	}
 }
