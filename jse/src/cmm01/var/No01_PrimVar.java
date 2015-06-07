@@ -25,6 +25,6 @@ class No01_PrimVar{
 		 * 변수명 그대로 사용되는 것은 내부에 할당된 값(value)이 출력된다. 
 		 * 
 		 * */
-		System.out.println("x+1 �� �� : "+y);
+		System.out.println("x+1 = : "+y);
 	} 
 }
